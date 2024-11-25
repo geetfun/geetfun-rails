@@ -1,6 +1,6 @@
 require "geetfun/version"
-require "geetfun/railtie"
+require "geetfun/engine"
+require "geetfun/form_builder_extensions"
 
 module Geetfun
-  # Your code goes here...
 end
